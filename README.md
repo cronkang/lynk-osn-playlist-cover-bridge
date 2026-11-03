@@ -1,6 +1,6 @@
-# Lynk OSN 仪表歌曲列表与专辑封面桥接
+#OSN 仪表歌曲列表与专辑封面桥接
 
-**Lynk OSN Playlist & Cover Bridge**
+**OSN Playlist & Cover Bridge**
 
 面向特定 OneOS / Android 9 车机的最小实验 App：通过临时 USB 媒体服务代理，向原车媒体客户端提供五首测试歌曲的播放列表、当前曲、封面、播放状态和进度，并用本应用的 `MediaPlayer` 播放内置 MIDI。
 

@@ -1,0 +1,14 @@
+{
+  "sha256": "f8ca11ceef74a8f813a678f5c9b013889893544030f0aa3ac6c967f1e54bedb4",
+  "package": "dev.lynk.usbprobe",
+  "minSdk": 28,
+  "targetSdk": 28,
+  "contract_groups": 6,
+  "transaction_count": 115,
+  "parcel_fields": 15,
+  "runtime_tested": false,
+  "version": "0.3.2",
+  "versionCode": 4,
+  "artifact": "USB-Instrument-Probe-0.3.2.apk",
+  "note": "Original signed APK; source export preserves the six application Java files and Manifest. Public rebuilds use a different local test key."
+}

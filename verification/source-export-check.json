@@ -1,0 +1,24 @@
+{
+  "original_apk_sha256": "f8ca11ceef74a8f813a678f5c9b013889893544030f0aa3ac6c967f1e54bedb4",
+  "application_sources_identical": true,
+  "manifest_identical": true,
+  "dex_identical": true,
+  "manifest_binary_identical": true,
+  "midi_identical": true,
+  "original_apk_entries": [
+    "AndroidManifest.xml",
+    "resources.arsc",
+    "classes.dex",
+    "assets/SOURCES.json",
+    "assets/track-1.mid",
+    "assets/track-2.mid",
+    "assets/track-3.mid",
+    "assets/track-4.mid",
+    "assets/track-5.mid",
+    "META-INF/PROBE.SF",
+    "META-INF/PROBE.RSA",
+    "META-INF/MANIFEST.MF"
+  ],
+  "public_build": "passed: JDK17, Android35, BuildTools35.0.0, Python stdlib, API28 signature",
+  "runtime_tested": false
+}

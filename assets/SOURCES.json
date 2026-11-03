@@ -1,0 +1,42 @@
+[
+  {
+    "file": "track-1.mid",
+    "source": "https://www.mutopiaproject.org/ftp/JoplinS/bethena/bethena.mid",
+    "bytes": 23688,
+    "license": "Public Domain",
+    "listing": "https://www.mutopiaproject.org/cgibin/make-table.cgi?collection=joplin&preview=1",
+    "sha256": "7e4c0b5a9402f112b90a8bf39558bc781f1909e9a023878f850456b9eda3390f"
+  },
+  {
+    "file": "track-2.mid",
+    "source": "https://www.mutopiaproject.org/ftp/JoplinS/entertainer/entertainer.mid",
+    "bytes": 22084,
+    "license": "Public Domain",
+    "listing": "https://www.mutopiaproject.org/cgibin/make-table.cgi?collection=joplin&preview=1",
+    "sha256": "33e4e81ee64ffb2edf90d1c6a1ddee7276507296bfb915c2bb775231a467f066"
+  },
+  {
+    "file": "track-3.mid",
+    "source": "https://www.mutopiaproject.org/ftp/JoplinS/magnetic/magnetic.mid",
+    "bytes": 26102,
+    "license": "Public Domain",
+    "listing": "https://www.mutopiaproject.org/cgibin/make-table.cgi?collection=joplin&preview=1",
+    "sha256": "2a0e2c6b4e6c4075e238baeedbf743847080d1f847d8460489aad8385a488069"
+  },
+  {
+    "file": "track-4.mid",
+    "source": "https://www.mutopiaproject.org/ftp/JoplinS/maple/maple.mid",
+    "bytes": 21518,
+    "license": "Public Domain",
+    "listing": "https://www.mutopiaproject.org/cgibin/make-table.cgi?collection=joplin&preview=1",
+    "sha256": "3dd712a85fabd267f5a2cee5cb23af4683408c2f29b8814721844498f1ee4f66"
+  },
+  {
+    "file": "track-5.mid",
+    "source": "https://www.mutopiaproject.org/ftp/JoplinS/original/original.mid",
+    "bytes": 14936,
+    "license": "Public Domain",
+    "listing": "https://www.mutopiaproject.org/cgibin/make-table.cgi?collection=joplin&preview=1",
+    "sha256": "105b41de93b32a12288800d824a2873fc07bcdfe63b232ccdc5daf333cb570e5"
+  }
+]

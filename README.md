@@ -88,3 +88,6 @@ build.py                        独立构建；无需原厂 APK 或第三方 Pyt
 Copyright (C) 2026 minyu.
 
 本项目原创源码与文档依据 GNU General Public License version 3 only 发布，完整条款见 [LICENSE](LICENSE)。第三方 MIDI 素材按其来源声明处理，不因本项目而改换许可。
+Copyright (C) 2026 minyu.
+
+本项目旨在供个人学习与技术研究参考，源码使用与分发遵循 GPL-3.0 许可证。如认为本项目涉及侵权，请联系作者核实处理，必要时删除相关内容。
